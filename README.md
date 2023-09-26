@@ -1,1 +1,1 @@
-# git-seminar2
+Version Control with Git - Seminar 2
